@@ -23,10 +23,10 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes
-/I D:\Unreal_Project\4.19.2\SphericalFPS\Source
-/I D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Inc\SphericalFPS
-/I D:\Unreal_Project\4.19.2\SphericalFPS\Source\SphericalFPS
+/I D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes
+/I D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Source
+/I D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Inc\SphericalFPS
+/I D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Source\SphericalFPS
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -364,9 +364,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Inc\SphericalFPS\FPSCharacter.gen.cpp"
-/FI"D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\Definitions.SphericalFPS.h"
-/Fo"D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSCharacter.gen.cpp.obj"
+"D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Inc\SphericalFPS\FPSCharacter.gen.cpp"
+/FI"D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\Definitions.SphericalFPS.h"
+/Fo"D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,63 +1,129 @@
-﻿  Compiling game modules for hot reload
+﻿  Performing full C++ include scan (hot reloading a new target)
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading SphericalFPSEditor (game project files are newer)
+  Compiling game modules for hot reload
   Parsing headers for SphericalFPSEditor
-    Running UnrealHeaderTool "D:\Unreal_Project\4.19.2\SphericalFPS\SphericalFPS.uproject" "D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\SphericalFPSEditor\Development\SphericalFPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for SphericalFPSEditor in 10.126067 seconds
-  Performing 6 actions (4 in parallel)
-  FPSProjectile.gen.cpp
-  FPSProjectile.cpp
+    Running UnrealHeaderTool "D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\SphericalFPS.uproject" "D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\SphericalFPSEditor\Development\SphericalFPSEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for SphericalFPSEditor in 12.6660102 seconds
+  Performing 19 actions (4 in parallel)
+  SphericalFPSGameModeBase.gen.cpp
   SphericalFPS.init.gen.cpp
+  MyPawn.gen.cpp
+  panoramaReader.gen.cpp
+  FPSProjectile.gen.cpp
+  FPSHUD.gen.cpp
+  FPSCharacter.gen.cpp
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+d:\unreal_project\4.19.2\spherical-fps\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+d:\unreal_project\4.19.2\spherical-fps\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+  SphericalFPSGameModeBase.cpp
+  SphericalFPS.cpp
+  MyPawn.cpp
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+  FPSProjectile.cpp
+d:\unreal_project\4.19.2\spherical-fps\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+          with
+          [
+              _Ty=cv::Point
+          ]
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+  FPSHUD.cpp
   FPSCharacter.cpp
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
-d:\unreal_project\4.19.2\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
-d:\unreal_project\4.19.2\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
-d:\unreal_project\4.19.2\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+  Module.OpenCV410.cpp
+  panoramaReader.cpp
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+d:\unreal_project\4.19.2\spherical-fps\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
           with
           [
               _Ty=cv::Point
           ]
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
           with
           [
               _Ty=cv::Point
           ]
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+  [16/19] Link UE4Editor-OpenCV410-3816.dll
+     D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Plugins\OpenCV410\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OpenCV410-3816.suppressed.lib 라이브러리 및 D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Plugins\OpenCV410\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OpenCV410-3816.suppressed.exp 개체를 생성하고 있습니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+  [17/19] Link UE4Editor-OpenCV410-3816.lib
+     D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Plugins\OpenCV410\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OpenCV410-3816.lib 라이브러리 및 D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Plugins\OpenCV410\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-OpenCV410-3816.exp 개체를 생성하고 있습니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(2419): warning C4946: 관련 클래스 'cv::Matx<double,4,1>'과(와) 'cv::Scalar_<double>' 사이에 reinterpret_cast가 사용되었습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/matx.hpp(226): note: 'cv::Matx<double,4,1>' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/core/types.hpp(669): note: 'cv::Scalar_<double>' 선언을 참조하십시오.
+d:\unreal_project\4.19.2\spherical-fps\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
           with
           [
               _Ty=cv::Point
           ]
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
           with
           [
               _Ty=cv::Point
           ]
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+d:\unreal_project\4.19.2\spherical-fps\sphericalfps\thirdparty\opencv\includes\opencv2\flann\dist.h(444): warning C4668: '__GNUC__'은(는) 전처리기 매크로로 정의되어 있지 않으므로 '#if/#elif'에 해당하는 '0'으로 바뀝니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(176): warning C4263: 'void cv::detail::BlocksCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 멤버 함수가 기본 클래스 가상 멤버 함수를 재정의하지 않습니다.
           with
           [
               _Ty=cv::Point
           ]
-D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
+D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(187): warning C4264: 'void cv::detail::ExposureCompensator::feed(const std::vector<cv::Point,std::allocator<_Ty>> &,const std::vector<cv::UMat,std::allocator<cv::UMat>> &,const std::vector<std::pair<cv::UMat,uchar>,std::allocator<std::pair<cv::UMat,uchar>>> &)': 기본 'cv::detail::ExposureCompensator'의 가상 멤버 함수에 대해 재정의를 사용할 수 없습니다. 함수가 숨겨집니다.
           with
           [
               _Ty=cv::Point
           ]
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
-  D:\Unreal_Project\4.19.2\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
-  [5/6] Link UE4Editor-SphericalFPS-191.dll
-  [6/6] Link UE4Editor-SphericalFPS-191.lib
-     D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-191.lib 라이브러리 및 D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-191.exp 개체를 생성하고 있습니다.
-     D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-191.suppressed.lib 라이브러리 및 D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-191.suppressed.exp 개체를 생성하고 있습니다.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(78): note: 'cv::detail::ExposureCompensator::feed' 선언을 참조하십시오.
+  D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\ThirdParty\OpenCV\Includes\opencv2/stitching/detail/exposure_compensate.hpp(60): note: 'cv::detail::ExposureCompensator' 선언을 참조하십시오.
+  [18/19] Link UE4Editor-SphericalFPS-3816.dll
+  [19/19] Link UE4Editor-SphericalFPS-3816.lib
+     D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-3816.lib 라이브러리 및 D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-3816.exp 개체를 생성하고 있습니다.
+     D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-3816.suppressed.lib 라이브러리 및 D:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-3816.suppressed.exp 개체를 생성하고 있습니다.
   Deploying SphericalFPSEditor Win64 Development...
-  Total build time: 33.15 seconds (Local executor: 18.63 seconds)
+  Total build time: 95.85 seconds (Local executor: 61.34 seconds)
