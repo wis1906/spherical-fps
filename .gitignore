@@ -2,9 +2,9 @@
 .vs/
 
 # Don't ignore OpenCV Plugin files
-!Binaries/Win64/opencv_ffmpeg410_64.dll
-!Binaries/Win64/opencv_world410.dll
-!ThirdParty/
+!SphericalFPS/Binaries/Win64/opencv_ffmpeg410_64.dll
+!SphericalFPS/Binaries/Win64/opencv_world410.dll
+!SphericalFPS/ThirdParty/
 
 
 # Compiled Object files
