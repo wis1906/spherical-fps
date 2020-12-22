@@ -1,6 +1,12 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Don't ignore OpenCV Plugin files
+!Binaries/Win64/opencv_ffmpeg410_64.dll
+!Binaries/Win64/opencv_world410.dll
+!ThirdParty/
+
+
 # Compiled Object files
 *.slo
 *.lo
