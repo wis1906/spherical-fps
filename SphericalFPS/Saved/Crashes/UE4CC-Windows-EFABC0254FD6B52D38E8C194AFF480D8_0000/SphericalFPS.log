@@ -1,0 +1,1327 @@
+﻿Log file open, 10/28/20 21:02:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SphericalFPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-680721964) SRandInit(-680721964).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.305169
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OpenCV410
+LogStreaming: Display: Took  0.209s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file D:/Unreal_Project/4.19.2/SphericalFPS/Binaries/Win64/UE4Editor-SphericalFPS-5883.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Warning: Module file D:/Unreal_Project/4.19.2/SphericalFPS/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410-5986.dll is missing. This is likely a stale module that must be recompiled.
+LogInit: Warning: Incompatible or missing module: UE4Editor-OpenCV410.dll
+Running C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe SphericalFPS Development Win64 -project="D:/Unreal_Project/4.19.2/SphericalFPS/SphericalFPS.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+@progress push 5%
+@progress pop
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-1478.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-1478.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-2748.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-2748.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-2796.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-2796.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-3417.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-3417.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-5083.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-5083.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-5883.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-5883.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-6996.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-6996.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-7297.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-7297.pdb".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-7718.dll".
+Deleting old hot reload file: "D:\Unreal_Project\4.19.2\SphericalFPS\Binaries\Win64\UE4Editor-SphericalFPS-7718.pdb".
+Performing 2 actions (4 in parallel)
+[1/2] Link UE4Editor-SphericalFPS.dll
+[2/2] Link UE4Editor-SphericalFPS.lib
+   D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS.lib ???̺귯?? ?? D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+   D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS.suppressed.lib ???̺귯?? ?? D:\Unreal_Project\4.19.2\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+Total build time: 4.82 seconds (Local executor: 2.03 seconds)
+LogModuleManager: Display: Found up-to-date module file D:/Unreal_Project/4.19.2/SphericalFPS/Binaries/Win64/UE4Editor-SphericalFPS.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file D:/Unreal_Project/4.19.2/SphericalFPS/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5SHH7PE (10.80.76.130:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2020.10.28-12.02.24:527][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.28-12.02.24:527][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.28-12.02.24:557][  0]LogInit: Computer: DESKTOP-5SHH7PE
+[2020.10.28-12.02.24:557][  0]LogInit: User: KISIK
+[2020.10.28-12.02.24:557][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.10.28-12.02.24:557][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.28-12.02.24:558][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.10.28-12.02.24:558][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.28-12.02.24:558][  0]LogMemory: Process Physical Memory: 282.82 MB used, 282.82 MB peak
+[2020.10.28-12.02.24:558][  0]LogMemory: Process Virtual Memory: 265.64 MB used, 265.64 MB peak
+[2020.10.28-12.02.24:558][  0]LogMemory: Physical Memory: 7224.17 MB used,  25480.20 MB free, 32704.37 MB total
+[2020.10.28-12.02.24:558][  0]LogMemory: Virtual Memory: 4829.57 MB used,  25480.20 MB free, 134217728.00 MB total
+[2020.10.28-12.02.24:604][  0]LogInit: Using OS detected language (ko-KR).
+[2020.10.28-12.02.24:604][  0]LogInit: Using OS detected locale (ko-KR).
+[2020.10.28-12.02.24:611][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2020.10.28-12.02.25:002][  0]LogStreaming: Display: Took  0.398s to EndInitTextLocalization.
+[2020.10.28-12.02.25:002][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.28-12.02.25:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.28-12.02.25:098][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.28-12.02.25:615][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.28-12.02.25:692][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2020.10.28-12.02.25:692][  0]LogD3D11RHI:       4043/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2020.10.28-12.02.25:695][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.28-12.02.25:695][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.28-12.02.25:695][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.28-12.02.25:704][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.28-12.02.25:704][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.28-12.02.25:704][  0]LogWindows: EnumDisplayDevices:
+[2020.10.28-12.02.25:705][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.10.28-12.02.25:706][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2020.10.28-12.02.25:706][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2020.10.28-12.02.25:707][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2020.10.28-12.02.25:708][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.10.28-12.02.25:708][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2020.10.28-12.02.25:708][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.10.28-12.02.25:708][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.10.28-12.02.25:708][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2020.10.28-12.02.25:760][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.10.28-12.02.25:760][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2020.10.28-12.02.25:760][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.28-12.02.25:774][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.10.28-12.02.25:876][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (D:/Unreal_Project/4.19.2/SphericalFPS/Intermediate/Shaders/WorkingDirectory/30284/).
+[2020.10.28-12.02.25:877][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KISIK/AppData/Local/Temp/UnrealShaderWorkingDir/7513D51447A396CC73C0618B68439E41/'.
+[2020.10.28-12.02.26:201][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.10.28-12.02.26:218][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.10.28-12.02.26:235][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.10.28-12.02.26:252][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.10.28-12.02.26:270][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.10.28-12.02.26:287][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.10.28-12.02.26:304][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.10.28-12.02.26:320][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.10.28-12.02.26:330][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.10.28-12.02.26:344][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2020.10.28-12.02.26:358][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2020.10.28-12.02.26:376][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2020.10.28-12.02.26:390][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2020.10.28-12.02.26:405][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2020.10.28-12.02.26:420][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2020.10.28-12.02.26:447][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2020.10.28-12.02.26:447][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2020.10.28-12.02.26:461][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.10.28-12.02.26:465][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.10.28-12.02.26:507][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.10.28-12.02.26:520][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.10.28-12.02.26:534][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.10.28-12.02.26:547][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.10.28-12.02.26:561][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.10.28-12.02.26:575][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.10.28-12.02.26:575][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.28-12.02.26:801][  0]LogXGEController: Cleaning working directory: C:/Users/KISIK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.28-12.02.26:801][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.28-12.02.26:802][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.28-12.02.26:802][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.28-12.02.27:935][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.28-12.02.28:001][  0]LogDerivedDataCache: Loaded boot cache 0.07s 70MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.10.28-12.02.28:001][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2020.10.28-12.02.28:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal_Project/4.19.2/SphericalFPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.28-12.02.28:001][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.28-12.02.28:001][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal_Project/4.19.2/SphericalFPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.28-12.02.28:001][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.28-12.02.28:017][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.28-12.02.28:030][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KISIK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.28-12.02.28:030][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.28-12.02.28:030][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.28-12.02.28:041][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.10.28-12.02.28:042][  0]LogSlate: Using Freetype 2.6.0
+[2020.10.28-12.02.28:043][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.28-12.02.28:043][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.28-12.02.28:318][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2020.10.28-12.02.28:655][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.28-12.02.28:842][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.10.28-12.02.28:847][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.10.28-12.02.28:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.28-12.02.28:847][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.10.28-12.02.28:847][  0]LogMeshReduction: No automatic mesh merging module available
+[2020.10.28-12.02.28:847][  0]LogMeshMerging: No automatic mesh merging module available
+[2020.10.28-12.02.28:914][  0]LogNetVersion: SphericalFPS , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 150958298)
+[2020.10.28-12.02.29:444][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 2 prioritized culture(s) in 0.103829 seconds
+[2020.10.28-12.02.29:451][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2020.10.28-12.02.29:451][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2020.10.28-12.02.29:451][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.28-12.02.31:983][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.28-12.02.32:053][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.28-12.02.32:808][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.10.28-12.02.32:808][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.10.28-12.02.32:844][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.10.28-12.02.32:879][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.10.28-12.02.33:856][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.28-12.02.34:561][  0]LogOcInput: OculusInput pre-init called
+[2020.10.28-12.02.34:835][  0]LogEngine: Initializing Engine...
+[2020.10.28-12.02.34:838][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.28-12.02.34:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.28-12.02.34:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.28-12.02.35:067][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.28-12.02.35:367][  0]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.02.35:620][  0]LogInit: FAudioDevice initialized.
+[2020.10.28-12.02.35:703][  0]LogDerivedDataCache: Saved boot cache 0.08s 70MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2020.10.28-12.02.35:715][  0]LogInit: Texture streaming: Enabled
+[2020.10.28-12.02.35:750][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.28-12.02.35:750][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={047F882C-47CB-A11E-4087-57892C167B1D}
+[2020.10.28-12.02.35:773][  0]LogInit: Transaction tracking system initialized
+[2020.10.28-12.02.35:818][  0]BlueprintLog: New page: 에디터 로드
+[2020.10.28-12.02.35:949][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2020.10.28-12.02.36:122][  0]LogConsoleResponse: Display: 
+[2020.10.28-12.02.36:330][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.28-12.02.36:330][  0]LogCook: Display: Mobile HDR setting 1
+[2020.10.28-12.02.36:330][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.10.28-12.02.36:330][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.10.28-12.02.36:330][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.10.28-12.02.36:946][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/SphericalFPS/Content/' took 0.01s
+[2020.10.28-12.02.37:029][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2020.10.28-12.02.37:243][  0]LogSlate: Took 0.003031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.10.28-12.02.37:244][  0]LogSlate: Took 0.000492 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.28-12.02.40:565][  0]LogSlate: Window '패키지 복원' being destroyed
+[2020.10.28-12.02.40:570][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.10.28-12.02.40:582][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2020.10.28-12.02.40:604][  0]Cmd: MAP LOAD FILE="D:/Unreal_Project/4.19.2/SphericalFPS/Content/Maps/Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.28-12.02.40:605][  0]LightingResults: New page: 라이팅 빌드
+[2020.10.28-12.02.40:611][  0]MapCheck: New page: 맵 체크
+[2020.10.28-12.02.40:611][  0]LightingResults: New page: 라이팅 빌드
+[2020.10.28-12.02.40:749][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0ab24aac8, Size=56, Default__BP_CubemapBillboard_C Function /Game/Blueprints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2020.10.28-12.02.40:755][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0ab24aac8, Size=56
+[2020.10.28-12.02.40:755][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0ab24aac8, Size=56, Default__BP_CubemapBillboard_C Function /Engine/Transient.REINST_BP_CubemapBillboard_C_5:ExecuteUbergraph_BP_CubemapBillboard
+[2020.10.28-12.02.40:757][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0ab2498d8, Size=56, Default__BP_CubemapBillboard_C Function /Game/Blueprints/BP_CubemapBillboard.BP_CubemapBillboard_C:ExecuteUbergraph_BP_CubemapBillboard
+[2020.10.28-12.02.40:775][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0aabc1d40, Size=64, Default__Arms_AnimBP_C Function /Game/Animations/FPP/Arms_AnimBP.Arms_AnimBP_C:ExecuteUbergraph_Arms_AnimBP
+[2020.10.28-12.02.40:781][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0aabc1d40, Size=64
+[2020.10.28-12.02.40:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0aabc1d80, Size=64, Default__Arms_AnimBP_C Function /Engine/Transient.REINST_Arms_AnimBP_C_0:ExecuteUbergraph_Arms_AnimBP
+[2020.10.28-12.02.40:788][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e08d02e0c0, Size=64, Default__Arms_AnimBP_C Function /Game/Animations/FPP/Arms_AnimBP.Arms_AnimBP_C:ExecuteUbergraph_Arms_AnimBP
+[2020.10.28-12.02.40:812][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e08e235040, Size=16, Default__BP_Boom_C Function /Game/Blueprints/BP_Boom.BP_Boom_C:ExecuteUbergraph_BP_Boom
+[2020.10.28-12.02.40:813][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e08e235040, Size=16
+[2020.10.28-12.02.40:813][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e08e235040, Size=16, Default__BP_Boom_C Function /Engine/Transient.REINST_BP_Boom_C_8:ExecuteUbergraph_BP_Boom
+[2020.10.28-12.02.40:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e08e235060, Size=16, Default__BP_Boom_C Function /Game/Blueprints/BP_Boom.BP_Boom_C:ExecuteUbergraph_BP_Boom
+[2020.10.28-12.02.40:821][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0aa5c2740, Size=96, Default__BP_FPSProjectile_C Function /Game/Blueprints/BP_FPSProjectile.BP_FPSProjectile_C:ExecuteUbergraph_BP_FPSProjectile
+[2020.10.28-12.02.40:824][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0aa5c2740, Size=96
+[2020.10.28-12.02.40:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0aa5c2740, Size=96, Default__BP_FPSProjectile_C Function /Engine/Transient.REINST_BP_FPSProjectile_C_10:ExecuteUbergraph_BP_FPSProjectile
+[2020.10.28-12.02.40:826][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0a27c7f40, Size=96, Default__BP_FPSProjectile_C Function /Game/Blueprints/BP_FPSProjectile.BP_FPSProjectile_C:ExecuteUbergraph_BP_FPSProjectile
+[2020.10.28-12.02.40:855][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0a27e2e80, Size=32, Default__Stage_C Function /Game/Maps/Stage.Stage_C:ExecuteUbergraph_Stage
+[2020.10.28-12.02.40:857][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0a27e2e80, Size=32
+[2020.10.28-12.02.40:857][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0a27e2e80, Size=32, Default__Stage_C Function /Engine/Transient.REINST_Stage_C_16:ExecuteUbergraph_Stage
+[2020.10.28-12.02.40:858][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001e0a27e2580, Size=32, Default__Stage_C Function /Game/Maps/Stage.Stage_C:ExecuteUbergraph_Stage
+[2020.10.28-12.02.40:976][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.737000ms] /Game/Meshes/HeroFPP/HeroFPP.HeroFPP
+[2020.10.28-12.02.41:028][  0]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.02.41:036][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.28-12.02.41:048][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0ab24aac8, Size=56
+[2020.10.28-12.02.41:048][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0aabc1d80, Size=64
+[2020.10.28-12.02.41:048][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e08e235040, Size=16
+[2020.10.28-12.02.41:048][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0aa5c2740, Size=96
+[2020.10.28-12.02.41:048][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001e0a27e2e80, Size=32
+[2020.10.28-12.02.41:050][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.28-12.02.41:221][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 170.635ms.
+[2020.10.28-12.02.41:221][  0]LogFileHelpers: Loading map 'Stage' took 0.617
+[2020.10.28-12.02.41:406][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_736c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2468_0///####STATCAT_Advanced####
+[2020.10.28-12.02.41:406][  0]LogCollectionManager: Loaded 0 collections in 0.003004 seconds
+[2020.10.28-12.02.41:466][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/SphericalFPS/Saved/Collections/' took 0.01s
+[2020.10.28-12.02.41:466][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/SphericalFPS/Content/Developers/KISIK/Collections/' took 0.01s
+[2020.10.28-12.02.41:466][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal_Project/4.19.2/SphericalFPS/Content/Collections/' took 0.01s
+[2020.10.28-12.02.41:466][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.10.28-12.02.41:485][  0]LogContentBrowser: Native class hierarchy populated in 0.0180 seconds. Added 2458 classes and 560 folders.
+[2020.10.28-12.02.41:507][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2020.10.28-12.02.41:610][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2020.10.28-12.02.41:619][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2020.10.28-12.02.41:631][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2020.10.28-12.02.41:701][  0]LogSlate: Took 0.002643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2020.10.28-12.02.41:701][  0]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.28-12.02.41:706][  0]LogSlate: Took 0.000370 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.28-12.02.41:817][  0]LogRenderer: Reallocating scene render targets to support 1208x604 Format 10 NumSamples 1 (Frame:1).
+[2020.10.28-12.02.41:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2020.10.28-12.02.41:946][  0]LogLoad: (Engine Initialization) Total time: 32.69 seconds
+[2020.10.28-12.02.41:946][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.28-12.02.41:979][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.28-12.02.42:047][  0]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.28-12.02.42:082][  1]LogAssetRegistry: Asset discovery search completed in 13.7863 seconds
+[2020.10.28-12.02.42:084][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.10.28-12.02.42:084][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2020.10.28-12.02.47:269][410]LogEditorViewport: Clicking on Actor (LMB): BP_CubemapBillboard_C (BP_CubemapBillboard)
+[2020.10.28-12.02.48:430][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.02.48:522][538]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.10.28-12.02.48:536][538]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.02.48:536][538]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-12.02.48:537][538]PIE: New page: PIE 세션: Stage (2020. 10. 29. 오전 6:02:48)
+[2020.10.28-12.02.48:537][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage
+[2020.10.28-12.02.48:541][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003753s)
+[2020.10.28-12.02.48:542][538]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.02.48:542][538]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2020.10.28-12.02.48:542][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage.Stage to /Game/Maps/UEDPIE_0_Stage.Stage (0.005223s)
+[2020.10.28-12.02.48:759][538]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.02.48:814][538]LogInit: FAudioDevice initialized.
+[2020.10.28-12.02.48:860][538]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.28-12.02.48:863][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2020.10.28-21.02.48
+[2020.10.28-12.02.48:864][538]LogWorld: Bringing up level for play took: 0.001380
+[2020.10.28-12.02.48:874][538]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 11 classes and 0 folders.
+[2020.10.28-12.02.48:923][538]SphericalFPS: Warning: MatImg Num : 3
+[2020.10.28-12.02.49:119][538]PIE: /Game/Maps/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.678
+[2020.10.28-12.02.49:120][538]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.02.49:826][608]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.02.49:826][608]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.02.50:343][662]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.02.54:239][947]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.02.54:239][947]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.02.54:719][  0]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.02.55:423][ 84]SphericalFPS: Warning: DepthVal = 65
+[2020.10.28-12.02.55:423][ 84]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.02.56:190][172]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.02.58:408][438]SphericalFPS: Warning: DepthVal = 62
+[2020.10.28-12.02.58:408][438]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.02.59:158][524]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.02.59:842][606]SphericalFPS: Warning: DepthVal = 60
+[2020.10.28-12.02.59:842][606]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.00:575][690]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.00:852][723]SphericalFPS: Warning: DepthVal = 54
+[2020.10.28-12.03.00:852][723]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.01:543][802]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.01:813][834]SphericalFPS: Warning: DepthVal = 62
+[2020.10.28-12.03.01:813][834]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.02:565][920]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.03:300][  8]SphericalFPS: Warning: DepthVal = 58
+[2020.10.28-12.03.03:300][  8]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.04:023][ 91]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.04:865][192]SphericalFPS: Warning: DepthVal = 57
+[2020.10.28-12.03.04:865][192]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.05:581][274]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.05:799][300]SphericalFPS: Warning: DepthVal = 56
+[2020.10.28-12.03.05:799][300]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.06:507][381]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.06:734][408]SphericalFPS: Warning: DepthVal = 55
+[2020.10.28-12.03.06:734][408]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.07:433][488]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.08:228][583]SphericalFPS: Warning: DepthVal = 54
+[2020.10.28-12.03.08:228][583]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.08:928][663]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.11:081][921]SphericalFPS: Warning: DepthVal = 60
+[2020.10.28-12.03.11:081][921]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.11:812][  5]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.12:948][141]SphericalFPS: Warning: DepthVal = 60
+[2020.10.28-12.03.12:948][141]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.13:514][209]SphericalFPS: Warning: DepthVal = 133
+[2020.10.28-12.03.13:514][209]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.13:681][225]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.14:741][348]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.16:009][500]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.03.16:009][500]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.17:174][636]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.18:200][759]SphericalFPS: Warning: DepthVal = 70
+[2020.10.28-12.03.18:200][759]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.19:001][851]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.19:194][874]SphericalFPS: Warning: DepthVal = 55
+[2020.10.28-12.03.19:194][874]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.19:893][954]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.21:223][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.03.21:226][ 90]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.28-12.03.21:256][ 90]LogSlate: Took 0.002118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.10.28-12.03.21:258][ 90]LogSlate: Took 0.002190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2020.10.28-12.03.21:261][ 90]LogSlate: Took 0.002140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2020.10.28-12.03.21:265][ 90]LogSlate: Took 0.002788 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.10.28-12.03.22:200][172]LogEditorViewport: Clicking on Actor (LMB): BP_FPSCharacter_C (BP_FPSCharacter)
+[2020.10.28-12.03.24:071][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.03.24:682][384]SphericalFPS: Warning: DepthVal = 55
+[2020.10.28-12.03.24:682][384]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.25:381][464]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.26:398][586]SphericalFPS: Warning: DepthVal = 122
+[2020.10.28-12.03.26:398][586]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.27:550][720]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.28:217][800]SphericalFPS: Warning: DepthVal = 13
+[2020.10.28-12.03.28:217][800]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.28:641][847]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.29:109][903]SphericalFPS: Warning: DepthVal = 12
+[2020.10.28-12.03.29:109][903]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.29:525][949]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.30:091][ 17]SphericalFPS: Warning: DepthVal = 111
+[2020.10.28-12.03.30:091][ 17]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.31:166][142]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.31:559][189]SphericalFPS: Warning: DepthVal = 123
+[2020.10.28-12.03.31:559][189]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.32:719][324]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.32:894][345]SphericalFPS: Warning: DepthVal = 40
+[2020.10.28-12.03.32:894][345]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.33:493][413]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.33:985][472]SphericalFPS: Warning: DepthVal = 118
+[2020.10.28-12.03.33:985][472]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.35:111][603]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.35:622][664]SphericalFPS: Warning: DepthVal = 118
+[2020.10.28-12.03.35:623][664]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.36:747][795]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.38:615][ 19]SphericalFPS: Warning: DepthVal = 122
+[2020.10.28-12.03.38:616][ 19]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.39:766][153]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.40:416][231]SphericalFPS: Warning: DepthVal = 55
+[2020.10.28-12.03.40:416][231]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.41:114][311]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.41:556][364]SphericalFPS: Warning: DepthVal = 45
+[2020.10.28-12.03.41:556][364]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.42:187][436]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.42:530][477]SphericalFPS: Warning: DepthVal = 45
+[2020.10.28-12.03.42:530][477]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.43:188][549]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.43:983][639]SphericalFPS: Warning: DepthVal = 146
+[2020.10.28-12.03.43:983][639]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.45:290][792]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.45:349][799]SphericalFPS: Warning: DepthVal = 127
+[2020.10.28-12.03.45:349][799]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.46:530][937]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.47:048][999]SphericalFPS: Warning: DepthVal = 118
+[2020.10.28-12.03.47:048][999]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.48:171][130]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.48:755][200]SphericalFPS: Warning: DepthVal = 17
+[2020.10.28-12.03.48:755][200]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.49:203][250]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.49:644][303]SphericalFPS: Warning: DepthVal = 19
+[2020.10.28-12.03.49:644][303]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.50:110][354]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.50:910][450]SphericalFPS: Warning: DepthVal = 134
+[2020.10.28-12.03.50:911][450]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.52:143][594]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.52:460][632]SphericalFPS: Warning: DepthVal = 142
+[2020.10.28-12.03.52:461][632]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.53:742][782]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.54:217][839]SphericalFPS: Warning: DepthVal = 56
+[2020.10.28-12.03.54:217][839]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.54:924][920]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.55:418][979]SphericalFPS: Warning: DepthVal = 61
+[2020.10.28-12.03.55:418][979]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.56:160][ 64]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.56:385][ 91]SphericalFPS: Warning: DepthVal = 135
+[2020.10.28-12.03.56:385][ 91]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.57:617][235]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.58:234][309]SphericalFPS: Warning: DepthVal = 54
+[2020.10.28-12.03.58:234][309]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.58:818][379]SphericalFPS: Warning: DepthVal = 67
+[2020.10.28-12.03.58:818][379]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.03.58:932][389]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.03.59:490][456]SphericalFPS: Warning: DepthVal = 141
+[2020.10.28-12.03.59:490][456]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.03.59:598][465]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.00:299][549]SphericalFPS: Warning: DepthVal = 18
+[2020.10.28-12.04.00:299][549]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.00:757][600]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.00:799][601]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.01:833][725]SphericalFPS: Warning: DepthVal = 18
+[2020.10.28-12.04.01:833][725]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.02:297][776]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.03:140][877]SphericalFPS: Warning: DepthVal = 18
+[2020.10.28-12.04.03:140][877]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.03:598][928]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.04:657][ 55]SphericalFPS: Warning: DepthVal = 20
+[2020.10.28-12.04.04:657][ 55]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.05:122][107]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.05:739][181]SphericalFPS: Warning: DepthVal = 21
+[2020.10.28-12.04.05:739][181]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.06:212][234]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.06:696][292]SphericalFPS: Warning: DepthVal = 22
+[2020.10.28-12.04.06:696][292]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.07:178][346]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.07:611][398]SphericalFPS: Warning: DepthVal = 25
+[2020.10.28-12.04.07:612][398]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.08:110][454]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.08:812][538]SphericalFPS: Warning: DepthVal = 28
+[2020.10.28-12.04.08:812][538]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.09:338][597]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.09:814][654]SphericalFPS: Warning: DepthVal = 33
+[2020.10.28-12.04.09:814][654]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.10:371][717]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.10:764][764]SphericalFPS: Warning: DepthVal = 38
+[2020.10.28-12.04.10:764][764]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.11:355][831]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.11:646][866]SphericalFPS: Warning: DepthVal = 50
+[2020.10.28-12.04.11:646][866]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.12:313][942]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.12:456][959]SphericalFPS: Warning: DepthVal = 32
+[2020.10.28-12.04.12:457][959]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.13:008][ 21]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.13:608][ 93]SphericalFPS: Warning: DepthVal = 30
+[2020.10.28-12.04.13:608][ 93]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.14:144][153]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.14:729][223]SphericalFPS: Warning: DepthVal = 29
+[2020.10.28-12.04.14:729][223]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.15:263][283]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.15:981][369]SphericalFPS: Warning: DepthVal = 29
+[2020.10.28-12.04.15:981][369]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.16:516][429]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.17:409][536]SphericalFPS: Warning: DepthVal = 30
+[2020.10.28-12.04.17:409][536]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.17:943][596]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.19:479][780]SphericalFPS: Warning: DepthVal = 53
+[2020.10.28-12.04.19:479][780]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.20:169][859]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.22:490][137]SphericalFPS: Warning: DepthVal = 165
+[2020.10.28-12.04.22:490][137]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.23:922][305]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.26:000][554]SphericalFPS: Warning: DepthVal = 119
+[2020.10.28-12.04.26:000][554]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.27:130][686]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.27:891][777]SphericalFPS: Warning: DepthVal = 119
+[2020.10.28-12.04.27:891][777]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.29:026][909]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.29:726][993]SphericalFPS: Warning: DepthVal = 128
+[2020.10.28-12.04.29:726][993]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.30:917][132]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.31:994][261]SphericalFPS: Warning: DepthVal = 54
+[2020.10.28-12.04.31:994][261]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.32:694][341]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.33:645][455]SphericalFPS: Warning: DepthVal = 51
+[2020.10.28-12.04.33:646][455]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.34:319][532]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.34:578][563]SphericalFPS: Warning: DepthVal = 50
+[2020.10.28-12.04.34:578][563]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.35:243][639]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.35:486][668]SphericalFPS: Warning: DepthVal = 59
+[2020.10.28-12.04.35:486][668]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.36:221][752]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.36:588][796]SphericalFPS: Warning: DepthVal = 60
+[2020.10.28-12.04.36:588][796]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.37:320][880]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.38:032][965]SphericalFPS: Warning: DepthVal = 130
+[2020.10.28-12.04.38:032][965]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.39:232][105]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.39:242][106]SphericalFPS: Warning: DepthVal = 28
+[2020.10.28-12.04.39:242][106]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.39:766][165]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.40:524][256]SphericalFPS: Warning: DepthVal = 18
+[2020.10.28-12.04.40:525][256]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.40:982][307]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.41:283][343]SphericalFPS: Warning: DepthVal = 26
+[2020.10.28-12.04.41:283][343]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.04.41:791][400]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.42:274][458]SphericalFPS: Warning: DepthVal = 98
+[2020.10.28-12.04.42:274][458]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.43:267][573]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.43:845][642]SphericalFPS: Warning: DepthVal = 118
+[2020.10.28-12.04.43:846][642]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.44:970][773]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.45:379][822]SphericalFPS: Warning: DepthVal = 118
+[2020.10.28-12.04.45:379][822]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.46:502][953]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.46:761][984]SphericalFPS: Warning: DepthVal = 122
+[2020.10.28-12.04.46:761][984]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.47:910][118]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.53:832][827]SphericalFPS: Warning: DepthVal = 129
+[2020.10.28-12.04.53:832][827]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.55:030][967]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.56:907][192]SphericalFPS: Warning: DepthVal = 130
+[2020.10.28-12.04.56:907][192]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.04.58:106][332]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.04.59:890][546]SphericalFPS: Warning: DepthVal = 127
+[2020.10.28-12.04.59:890][546]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.01:072][684]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.01:715][761]SphericalFPS: Warning: DepthVal = 121
+[2020.10.28-12.05.01:715][761]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.02:856][894]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.03:490][970]SphericalFPS: Warning: DepthVal = 117
+[2020.10.28-12.05.03:490][970]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.04:605][100]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.06:515][329]SphericalFPS: Warning: DepthVal = 113
+[2020.10.28-12.05.06:515][329]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.07:605][456]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.10:315][781]SphericalFPS: Warning: DepthVal = 113
+[2020.10.28-12.05.10:315][781]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.11:406][908]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.14:265][251]SphericalFPS: Warning: DepthVal = 111
+[2020.10.28-12.05.14:265][251]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.15:339][376]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.15:865][439]SphericalFPS: Warning: DepthVal = 13
+[2020.10.28-12.05.15:865][439]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.16:288][486]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.16:832][551]SphericalFPS: Warning: DepthVal = 12
+[2020.10.28-12.05.16:832][551]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.17:248][597]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.17:598][639]SphericalFPS: Warning: DepthVal = 12
+[2020.10.28-12.05.17:598][639]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.18:014][685]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.18:324][722]SphericalFPS: Warning: DepthVal = 13
+[2020.10.28-12.05.18:324][722]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.18:747][769]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.19:065][807]SphericalFPS: Warning: DepthVal = 126
+[2020.10.28-12.05.19:065][807]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.20:238][944]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.20:815][ 13]SphericalFPS: Warning: DepthVal = 119
+[2020.10.28-12.05.20:815][ 13]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.21:949][145]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.23:593][342]SphericalFPS: Warning: DepthVal = 16
+[2020.10.28-12.05.23:593][342]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.24:034][391]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.24:852][489]SphericalFPS: Warning: DepthVal = 122
+[2020.10.28-12.05.24:852][489]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.05.26:001][623]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.27:560][810]SphericalFPS: Warning: DepthVal = 21
+[2020.10.28-12.05.27:560][810]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.28:034][863]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.28:676][940]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.05.28:677][940]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.29:166][995]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.29:653][ 53]SphericalFPS: Warning: DepthVal = 27
+[2020.10.28-12.05.29:653][ 53]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.30:170][111]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.30:379][136]SphericalFPS: Warning: DepthVal = 38
+[2020.10.28-12.05.30:379][136]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.30:971][203]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.31:120][221]SphericalFPS: Warning: DepthVal = 42
+[2020.10.28-12.05.31:120][221]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.31:737][291]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.33:230][470]SphericalFPS: Warning: DepthVal = 45
+[2020.10.28-12.05.33:230][470]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.33:863][542]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.34:172][579]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.34:172][579]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.34:806][651]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.35:215][700]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.35:215][700]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.35:842][771]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.36:185][812]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.36:185][812]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.36:818][884]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.37:136][922]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.37:136][922]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.37:768][994]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.38:585][ 92]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.38:586][ 92]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.39:220][164]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.39:703][222]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.39:704][222]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.40:337][294]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.41:455][428]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.41:455][428]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.42:088][500]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.42:522][552]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.42:522][552]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.43:155][624]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.43:449][659]SphericalFPS: Warning: DepthVal = 43
+[2020.10.28-12.05.43:449][659]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.44:073][730]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.44:407][770]SphericalFPS: Warning: DepthVal = 44
+[2020.10.28-12.05.44:407][770]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.45:041][842]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.45:408][886]SphericalFPS: Warning: DepthVal = 45
+[2020.10.28-12.05.45:409][886]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.46:041][958]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.47:267][105]SphericalFPS: Warning: DepthVal = 46
+[2020.10.28-12.05.47:267][105]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.47:908][178]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.48:116][203]SphericalFPS: Warning: DepthVal = 55
+[2020.10.28-12.05.48:117][203]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.48:816][283]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.49:025][308]SphericalFPS: Warning: DepthVal = 64
+[2020.10.28-12.05.49:025][308]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.05.49:791][396]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.05.51:464][597]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.05.51:496][597]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.06.43:385][113]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.07.23:320][977]LogEditorViewport: Clicking on Actor (LMB): BP_CubemapBillboard_C (BP_CubemapBillboard)
+[2020.10.28-12.07.24:083][ 50]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.28-12.07.25:421][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.07.28:527][504]AssetReimport: New page: 처리중인 소스 콘텐츠 변경사항 오전 6:07:28
+[2020.10.28-12.07.28:543][505]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal_Project/4.19.2/SphericalFPS/Content/Images/testset2_rgb.jpg)
+[2020.10.28-12.07.28:627][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/testset2_rgb" FILE="D:/Unreal_Project/4.19.2/SphericalFPS/Content/Images/testset2_rgb.uasset" SILENT=true
+[2020.10.28-12.07.28:650][506]LogSavePackage: Save=21.03ms
+[2020.10.28-12.07.28:650][506]LogSavePackage: Moving 'D:/Unreal_Project/4.19.2/SphericalFPS/Saved/testset2_rgb8101BF054F137AE6E04C89B872F17A8D.tmp' to 'D:/Unreal_Project/4.19.2/SphericalFPS/Content/Images/testset2_rgb.uasset'
+[2020.10.28-12.07.28:654][506]LogSavePackage: Display: Finished SavePackage D:/Unreal_Project/4.19.2/SphericalFPS/Content/Images/testset2_rgb.uasset
+[2020.10.28-12.07.29:807][608]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.10.28-12.07.29:821][608]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.07.29:822][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-12.07.29:822][608]PIE: New page: PIE 세션: Stage (2020. 10. 29. 오전 6:07:29)
+[2020.10.28-12.07.29:822][608]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage
+[2020.10.28-12.07.29:824][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002130s)
+[2020.10.28-12.07.29:825][608]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.07.29:825][608]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2020.10.28-12.07.29:826][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage.Stage to /Game/Maps/UEDPIE_0_Stage.Stage (0.003573s)
+[2020.10.28-12.07.30:104][608]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.07.30:171][608]LogInit: FAudioDevice initialized.
+[2020.10.28-12.07.30:203][608]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.28-12.07.30:205][608]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2020.10.28-21.07.30
+[2020.10.28-12.07.30:206][608]LogWorld: Bringing up level for play took: 0.001304
+[2020.10.28-12.07.30:243][608]SphericalFPS: Warning: MatImg Num : 3
+[2020.10.28-12.07.30:446][608]PIE: /Game/Maps/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.003
+[2020.10.28-12.07.30:446][608]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.07.31:307][705]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.07.31:307][705]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.31:676][747]AssetReimport: /Game/Images/testset2_rgb 새 애셋 임포트중.
+[2020.10.28-12.07.31:789][758]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.33:287][934]SphericalFPS: Warning: DepthVal = 26
+[2020.10.28-12.07.33:287][934]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.33:796][991]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.37:639][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.07.39:847][639]SphericalFPS: Warning: DepthVal = 27
+[2020.10.28-12.07.39:847][639]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.40:364][697]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.41:374][818]SphericalFPS: Warning: DepthVal = 112
+[2020.10.28-12.07.41:374][818]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.07.42:456][944]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.43:364][ 53]SphericalFPS: Warning: DepthVal = 113
+[2020.10.28-12.07.43:364][ 53]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.07.44:458][180]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.45:054][251]SphericalFPS: Warning: DepthVal = 50
+[2020.10.28-12.07.45:054][251]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.45:720][327]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.46:088][371]SphericalFPS: Warning: DepthVal = 14
+[2020.10.28-12.07.46:088][371]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.46:513][418]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.47:183][498]SphericalFPS: Warning: DepthVal = 13
+[2020.10.28-12.07.47:183][498]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.47:609][545]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.47:979][589]SphericalFPS: Warning: DepthVal = 128
+[2020.10.28-12.07.47:979][589]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.07.48:745][681]SphericalFPS: Warning: DepthVal = 47
+[2020.10.28-12.07.48:745][681]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.07.49:169][728]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.49:395][751]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.50:029][827]SphericalFPS: Warning: DepthVal = 119
+[2020.10.28-12.07.50:029][827]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.07.51:161][959]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.56:388][586]SphericalFPS: Warning: DepthVal = 114
+[2020.10.28-12.07.56:388][586]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.07.57:488][714]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.07.57:895][762]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.07.57:895][762]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.07.59:060][898]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.12:851][552]SphericalFPS: Warning: DepthVal = 129
+[2020.10.28-12.08.12:852][552]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.14:050][692]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.17:361][ 89]SphericalFPS: Warning: DepthVal = 125
+[2020.10.28-12.08.17:361][ 89]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.18:527][225]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.19:095][293]SphericalFPS: Warning: DepthVal = 206
+[2020.10.28-12.08.19:095][293]SphericalFPS: Warning: pitch = 5.000000
+[2020.10.28-12.08.22:498][701]SphericalFPS: Warning: DepthVal = 204
+[2020.10.28-12.08.22:498][701]SphericalFPS: Warning: pitch = 5.000000
+[2020.10.28-12.08.25:374][ 46]SphericalFPS: Warning: DepthVal = 120
+[2020.10.28-12.08.25:374][ 46]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.26:505][178]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.29:873][582]SphericalFPS: Warning: DepthVal = 125
+[2020.10.28-12.08.29:873][582]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.31:038][718]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.32:988][951]SphericalFPS: Warning: DepthVal = 122
+[2020.10.28-12.08.32:988][951]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.34:136][ 85]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.35:471][245]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.08.35:471][245]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.36:636][381]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.37:605][497]SphericalFPS: Warning: DepthVal = 128
+[2020.10.28-12.08.37:605][497]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.38:794][636]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.39:339][701]SphericalFPS: Warning: DepthVal = 134
+[2020.10.28-12.08.39:339][701]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.40:570][845]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.41:821][995]SphericalFPS: Warning: DepthVal = 94
+[2020.10.28-12.08.41:821][995]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.08.42:787][107]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.08.49:607][925]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.08.49:642][925]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.09.46:177][266]LogEditorViewport: Clicking on Actor (LMB): BP_CubemapBillboard_C (BP_CubemapBillboard)
+[2020.10.28-12.09.47:864][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.09.47:958][457]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.10.28-12.09.47:973][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.09.47:974][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-12.09.47:974][457]PIE: New page: PIE 세션: Stage (2020. 10. 29. 오전 6:09:47)
+[2020.10.28-12.09.47:974][457]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage
+[2020.10.28-12.09.47:976][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002001s)
+[2020.10.28-12.09.47:977][457]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.09.47:978][457]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2020.10.28-12.09.47:978][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage.Stage to /Game/Maps/UEDPIE_0_Stage.Stage (0.003708s)
+[2020.10.28-12.09.48:189][457]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.09.48:251][457]LogInit: FAudioDevice initialized.
+[2020.10.28-12.09.48:287][457]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.28-12.09.48:289][457]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2020.10.28-21.09.48
+[2020.10.28-12.09.48:289][457]LogWorld: Bringing up level for play took: 0.000895
+[2020.10.28-12.09.48:325][457]SphericalFPS: Warning: MatImg Num : 3
+[2020.10.28-12.09.48:524][457]PIE: /Game/Maps/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.081
+[2020.10.28-12.09.48:524][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.09.48:847][492]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.09.48:847][492]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.09.49:322][546]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.09.49:614][581]SphericalFPS: Warning: DepthVal = 19
+[2020.10.28-12.09.49:614][581]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.09.50:080][633]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.09.50:728][711]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.09.50:760][711]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.11.00:692][ 24]LogHotReload: New module detected: UE4Editor-SphericalFPS-5905.dll
+[2020.10.28-12.11.01:713][ 28]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.28-12.11.02:111][ 28]LogClass: PlayMode HotReload.
+[2020.10.28-12.11.02:122][ 28]LogContentBrowser: Native class hierarchy updated for 'SphericalFPS' in 0.0023 seconds. Added 6 classes and 2 folders.
+[2020.10.28-12.11.02:125][ 28]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.28-12.11.02:259][ 28]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2461 classes and 565 folders.
+[2020.10.28-12.11.02:281][ 28]Display: HotReload took  0.6s.
+[2020.10.28-12.11.03:633][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.11.03:705][ 40]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.10.28-12.11.03:724][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.11.03:725][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-12.11.03:725][ 40]PIE: New page: PIE 세션: Stage (2020. 10. 29. 오전 6:11:03)
+[2020.10.28-12.11.03:725][ 40]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage
+[2020.10.28-12.11.03:728][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002365s)
+[2020.10.28-12.11.03:728][ 40]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.11.03:729][ 40]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2020.10.28-12.11.03:729][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage.Stage to /Game/Maps/UEDPIE_0_Stage.Stage (0.003576s)
+[2020.10.28-12.11.03:992][ 40]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.11.04:048][ 40]LogInit: FAudioDevice initialized.
+[2020.10.28-12.11.04:083][ 40]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.28-12.11.04:085][ 40]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2020.10.28-21.11.04
+[2020.10.28-12.11.04:086][ 40]LogWorld: Bringing up level for play took: 0.001591
+[2020.10.28-12.11.04:128][ 40]SphericalFPS: Warning: MatImg Num : 3
+[2020.10.28-12.11.04:325][ 40]PIE: /Game/Maps/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: -0.117
+[2020.10.28-12.11.04:326][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.11.05:016][118]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.11.05:017][118]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.11.05:490][172]SphericalFPS: Warning: idx 0 diffSum : 0.958689
+[2020.10.28-12.11.05:490][172]SphericalFPS: Warning: idx 1 diffSum : 1.033283
+[2020.10.28-12.11.05:490][172]SphericalFPS: Warning: idx 2 diffSum : 1.474699
+[2020.10.28-12.11.05:490][172]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.07:177][374]SphericalFPS: Warning: DepthVal = 145
+[2020.10.28-12.11.07:177][374]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.08:476][526]SphericalFPS: Warning: idx 0 diffSum : 0.892496
+[2020.10.28-12.11.08:476][526]SphericalFPS: Warning: idx 1 diffSum : 0.967090
+[2020.10.28-12.11.08:476][526]SphericalFPS: Warning: idx 2 diffSum : 1.444146
+[2020.10.28-12.11.08:476][526]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.09:219][615]SphericalFPS: Warning: DepthVal = 72
+[2020.10.28-12.11.09:219][615]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.11.10:034][709]SphericalFPS: Warning: idx 0 diffSum : 0.957253
+[2020.10.28-12.11.10:034][709]SphericalFPS: Warning: idx 1 diffSum : 1.031847
+[2020.10.28-12.11.10:035][709]SphericalFPS: Warning: idx 2 diffSum : 1.480667
+[2020.10.28-12.11.10:035][709]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.10:919][815]SphericalFPS: Warning: DepthVal = 204
+[2020.10.28-12.11.10:919][815]SphericalFPS: Warning: pitch = 5.000000
+[2020.10.28-12.11.13:004][ 65]SphericalFPS: Warning: DepthVal = 131
+[2020.10.28-12.11.13:004][ 65]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.14:212][206]SphericalFPS: Warning: idx 0 diffSum : 0.791970
+[2020.10.28-12.11.14:212][206]SphericalFPS: Warning: idx 1 diffSum : 0.914444
+[2020.10.28-12.11.14:212][206]SphericalFPS: Warning: idx 2 diffSum : 1.398034
+[2020.10.28-12.11.14:212][206]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.15:108][313]SphericalFPS: Warning: DepthVal = 134
+[2020.10.28-12.11.15:108][313]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.16:340][457]SphericalFPS: Warning: idx 0 diffSum : 0.823422
+[2020.10.28-12.11.16:340][457]SphericalFPS: Warning: idx 1 diffSum : 0.933154
+[2020.10.28-12.11.16:340][457]SphericalFPS: Warning: idx 2 diffSum : 1.416745
+[2020.10.28-12.11.16:340][457]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.21:683][ 98]SphericalFPS: Warning: DepthVal = 113
+[2020.10.28-12.11.21:683][ 98]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.22:773][225]SphericalFPS: Warning: idx 0 diffSum : 0.825375
+[2020.10.28-12.11.22:773][225]SphericalFPS: Warning: idx 1 diffSum : 0.940291
+[2020.10.28-12.11.22:773][225]SphericalFPS: Warning: idx 2 diffSum : 1.423882
+[2020.10.28-12.11.22:773][225]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.24:224][399]SphericalFPS: Warning: DepthVal = 129
+[2020.10.28-12.11.24:224][399]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.25:422][539]SphericalFPS: Warning: idx 0 diffSum : 0.885454
+[2020.10.28-12.11.25:422][539]SphericalFPS: Warning: idx 1 diffSum : 0.960047
+[2020.10.28-12.11.25:422][539]SphericalFPS: Warning: idx 2 diffSum : 1.439853
+[2020.10.28-12.11.25:423][539]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.26:474][665]SphericalFPS: Warning: DepthVal = 115
+[2020.10.28-12.11.26:475][665]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.27:574][793]SphericalFPS: Warning: idx 0 diffSum : 0.824500
+[2020.10.28-12.11.27:574][793]SphericalFPS: Warning: idx 1 diffSum : 0.940339
+[2020.10.28-12.11.27:574][793]SphericalFPS: Warning: idx 2 diffSum : 1.423930
+[2020.10.28-12.11.27:574][793]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.28:016][846]SphericalFPS: Warning: DepthVal = 115
+[2020.10.28-12.11.28:016][846]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.29:115][974]SphericalFPS: Warning: idx 0 diffSum : 0.824761
+[2020.10.28-12.11.29:115][974]SphericalFPS: Warning: idx 1 diffSum : 0.939411
+[2020.10.28-12.11.29:115][974]SphericalFPS: Warning: idx 2 diffSum : 1.423002
+[2020.10.28-12.11.29:115][974]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.30:275][113]SphericalFPS: Warning: DepthVal = 46
+[2020.10.28-12.11.30:275][113]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.11.30:915][186]SphericalFPS: Warning: idx 0 diffSum : 0.927415
+[2020.10.28-12.11.30:915][186]SphericalFPS: Warning: idx 1 diffSum : 1.002009
+[2020.10.28-12.11.30:915][186]SphericalFPS: Warning: idx 2 diffSum : 1.461245
+[2020.10.28-12.11.30:915][186]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.31:600][268]SphericalFPS: Warning: DepthVal = 38
+[2020.10.28-12.11.31:600][268]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.11.32:192][335]SphericalFPS: Warning: idx 0 diffSum : 0.907650
+[2020.10.28-12.11.32:192][335]SphericalFPS: Warning: idx 1 diffSum : 0.985159
+[2020.10.28-12.11.32:192][335]SphericalFPS: Warning: idx 2 diffSum : 1.468749
+[2020.10.28-12.11.32:192][335]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.32:743][400]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.11.32:744][400]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.33:910][536]SphericalFPS: Warning: idx 0 diffSum : 0.824958
+[2020.10.28-12.11.33:910][536]SphericalFPS: Warning: idx 1 diffSum : 0.947432
+[2020.10.28-12.11.33:910][536]SphericalFPS: Warning: idx 2 diffSum : 1.431022
+[2020.10.28-12.11.33:910][536]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.34:322][585]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.11.34:323][585]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.35:482][720]SphericalFPS: Warning: idx 0 diffSum : 0.859651
+[2020.10.28-12.11.35:482][720]SphericalFPS: Warning: idx 1 diffSum : 0.973542
+[2020.10.28-12.11.35:482][720]SphericalFPS: Warning: idx 2 diffSum : 1.457133
+[2020.10.28-12.11.35:483][720]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.35:875][767]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.11.35:875][767]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.11.37:040][903]SphericalFPS: Warning: idx 0 diffSum : 1.023149
+[2020.10.28-12.11.37:041][903]SphericalFPS: Warning: idx 1 diffSum : 1.097742
+[2020.10.28-12.11.37:041][903]SphericalFPS: Warning: idx 2 diffSum : 1.480635
+[2020.10.28-12.11.37:041][903]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.11.37:597][970]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.11.37:629][970]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.12.28:179][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.28-12.12.48:361][526]LogHotReload: New module detected: UE4Editor-SphericalFPS-9628.dll
+[2020.10.28-12.12.49:844][600]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.28-12.12.50:300][600]LogClass: PlayMode HotReload.
+[2020.10.28-12.12.50:309][600]LogContentBrowser: Native class hierarchy updated for 'SphericalFPS' in 0.0009 seconds. Added 6 classes and 2 folders.
+[2020.10.28-12.12.50:311][600]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.28-12.12.50:352][600]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2461 classes and 565 folders.
+[2020.10.28-12.12.50:372][600]Display: HotReload took  0.5s.
+[2020.10.28-12.12.51:233][694]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.10.28-12.12.51:247][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.12.51:247][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-12.12.51:247][694]PIE: New page: PIE 세션: Stage (2020. 10. 29. 오전 6:12:51)
+[2020.10.28-12.12.51:248][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage
+[2020.10.28-12.12.51:250][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002539s)
+[2020.10.28-12.12.51:252][694]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.12.51:252][694]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2020.10.28-12.12.51:252][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage.Stage to /Game/Maps/UEDPIE_0_Stage.Stage (0.004726s)
+[2020.10.28-12.12.51:526][694]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.12.51:584][694]LogInit: FAudioDevice initialized.
+[2020.10.28-12.12.51:617][694]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.28-12.12.51:618][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2020.10.28-21.12.51
+[2020.10.28-12.12.51:618][694]LogWorld: Bringing up level for play took: 0.000957
+[2020.10.28-12.12.51:655][694]SphericalFPS: Warning: MatImg Num : 3
+[2020.10.28-12.12.52:014][694]PIE: /Game/Maps/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.572
+[2020.10.28-12.12.52:014][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.13.33:164][884]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.13.33:201][884]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.15.03:813][213]LogHotReload: New module detected: UE4Editor-SphericalFPS-1122.dll
+[2020.10.28-12.15.05:511][219]LogHotReload: Starting Hot-Reload from IDE
+[2020.10.28-12.15.05:991][219]LogClass: PlayMode HotReload.
+[2020.10.28-12.15.06:004][219]LogContentBrowser: Native class hierarchy updated for 'SphericalFPS' in 0.0021 seconds. Added 6 classes and 2 folders.
+[2020.10.28-12.15.06:006][219]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2020.10.28-12.15.06:055][219]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2461 classes and 565 folders.
+[2020.10.28-12.15.06:076][219]Display: HotReload took  0.6s.
+[2020.10.28-12.15.09:057][440]LogTemp: Repeating last play command: 선택된 뷰포트
+[2020.10.28-12.15.09:071][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.15.09:071][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.28-12.15.09:072][440]PIE: New page: PIE 세션: Stage (2020. 10. 29. 오전 6:15:09)
+[2020.10.28-12.15.09:072][440]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Stage
+[2020.10.28-12.15.09:075][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002999s)
+[2020.10.28-12.15.09:076][440]LogAIModule: Creating AISystem for world Stage
+[2020.10.28-12.15.09:076][440]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2020.10.28-12.15.09:076][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Stage.Stage to /Game/Maps/UEDPIE_0_Stage.Stage (0.004321s)
+[2020.10.28-12.15.09:310][440]LogInit: XAudio2 using 'S27D850(3- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.10.28-12.15.09:371][440]LogInit: FAudioDevice initialized.
+[2020.10.28-12.15.09:405][440]LogLoad: Game class is 'BP_GameMode_C'
+[2020.10.28-12.15.09:407][440]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2020.10.28-21.15.09
+[2020.10.28-12.15.09:408][440]LogWorld: Bringing up level for play took: 0.001127
+[2020.10.28-12.15.09:444][440]SphericalFPS: Warning: MatImg Num : 3
+[2020.10.28-12.15.09:648][440]PIE: /Game/Maps/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 1.206
+[2020.10.28-12.15.09:649][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Maps/Stage.Stage_C' with ClassGeneratedBy '/Game/Maps/Stage.Stage:PersistentLevel.Stage'
+[2020.10.28-12.15.10:149][496]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.15.10:149][496]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.10:632][551]SphericalFPS: Warning: idx 0 diffSum : 0.432274
+[2020.10.28-12.15.10:632][551]SphericalFPS: Warning: idx 1 diffSum : 0.502385
+[2020.10.28-12.15.10:632][551]SphericalFPS: Warning: idx 2 diffSum : 0.964242
+[2020.10.28-12.15.10:632][551]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.11:659][674]SphericalFPS: Warning: DepthVal = 134
+[2020.10.28-12.15.11:659][674]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.12:892][817]SphericalFPS: Warning: idx 0 diffSum : 0.368127
+[2020.10.28-12.15.12:892][817]SphericalFPS: Warning: idx 1 diffSum : 0.434432
+[2020.10.28-12.15.12:893][817]SphericalFPS: Warning: idx 2 diffSum : 0.918023
+[2020.10.28-12.15.12:893][817]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.13:869][932]SphericalFPS: Warning: DepthVal = 66
+[2020.10.28-12.15.13:869][932]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.14:642][ 21]SphericalFPS: Warning: idx 0 diffSum : 0.224183
+[2020.10.28-12.15.14:642][ 21]SphericalFPS: Warning: idx 1 diffSum : 0.324109
+[2020.10.28-12.15.14:642][ 21]SphericalFPS: Warning: idx 2 diffSum : 0.794646
+[2020.10.28-12.15.14:642][ 21]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.17:012][304]SphericalFPS: Warning: DepthVal = 83
+[2020.10.28-12.15.17:012][304]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.17:903][407]SphericalFPS: Warning: idx 0 diffSum : 0.192641
+[2020.10.28-12.15.17:904][407]SphericalFPS: Warning: idx 1 diffSum : 0.339611
+[2020.10.28-12.15.17:904][407]SphericalFPS: Warning: idx 2 diffSum : 0.569879
+[2020.10.28-12.15.17:904][407]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.19:825][636]SphericalFPS: Warning: DepthVal = 126
+[2020.10.28-12.15.19:825][636]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.20:999][773]SphericalFPS: Warning: idx 0 diffSum : 0.286312
+[2020.10.28-12.15.21:000][773]SphericalFPS: Warning: idx 1 diffSum : 0.356811
+[2020.10.28-12.15.21:000][773]SphericalFPS: Warning: idx 2 diffSum : 0.799625
+[2020.10.28-12.15.21:000][773]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.23:169][ 33]SphericalFPS: Warning: DepthVal = 123
+[2020.10.28-12.15.23:169][ 33]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.24:326][168]SphericalFPS: Warning: idx 0 diffSum : 0.213655
+[2020.10.28-12.15.24:326][168]SphericalFPS: Warning: idx 1 diffSum : 0.260867
+[2020.10.28-12.15.24:326][168]SphericalFPS: Warning: idx 2 diffSum : 0.662766
+[2020.10.28-12.15.24:326][168]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.25:723][335]SphericalFPS: Warning: DepthVal = 124
+[2020.10.28-12.15.25:723][335]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.26:889][471]SphericalFPS: Warning: idx 0 diffSum : 0.247442
+[2020.10.28-12.15.26:889][471]SphericalFPS: Warning: idx 1 diffSum : 0.300937
+[2020.10.28-12.15.26:889][471]SphericalFPS: Warning: idx 2 diffSum : 0.753669
+[2020.10.28-12.15.26:890][471]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.28:741][693]SphericalFPS: Warning: DepthVal = 122
+[2020.10.28-12.15.28:741][693]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.29:895][827]SphericalFPS: Warning: idx 0 diffSum : 0.244425
+[2020.10.28-12.15.29:895][827]SphericalFPS: Warning: idx 1 diffSum : 0.298296
+[2020.10.28-12.15.29:895][827]SphericalFPS: Warning: idx 2 diffSum : 0.754866
+[2020.10.28-12.15.29:895][827]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.30:429][891]SphericalFPS: Warning: DepthVal = 117
+[2020.10.28-12.15.30:430][891]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.31:547][ 21]SphericalFPS: Warning: idx 0 diffSum : 0.251951
+[2020.10.28-12.15.31:547][ 21]SphericalFPS: Warning: idx 1 diffSum : 0.304785
+[2020.10.28-12.15.31:547][ 21]SphericalFPS: Warning: idx 2 diffSum : 0.747605
+[2020.10.28-12.15.31:547][ 21]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.31:998][ 75]SphericalFPS: Warning: DepthVal = 128
+[2020.10.28-12.15.31:999][ 75]SphericalFPS: Warning: pitch = 1.000000
+[2020.10.28-12.15.33:190][214]SphericalFPS: Warning: idx 0 diffSum : 0.236872
+[2020.10.28-12.15.33:190][214]SphericalFPS: Warning: idx 1 diffSum : 0.288599
+[2020.10.28-12.15.33:190][214]SphericalFPS: Warning: idx 2 diffSum : 0.741586
+[2020.10.28-12.15.33:190][214]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.33:665][271]SphericalFPS: Warning: DepthVal = 47
+[2020.10.28-12.15.33:665][271]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.34:314][345]SphericalFPS: Warning: idx 0 diffSum : 0.175929
+[2020.10.28-12.15.34:314][345]SphericalFPS: Warning: idx 1 diffSum : 0.265074
+[2020.10.28-12.15.34:314][345]SphericalFPS: Warning: idx 2 diffSum : 0.640866
+[2020.10.28-12.15.34:315][345]SphericalFPS: Warning: idx : 0
+[2020.10.28-12.15.35:878][532]SphericalFPS: Warning: DepthVal = 23
+[2020.10.28-12.15.35:879][532]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.36:379][587]SphericalFPS: Warning: idx 0 diffSum : 0.339136
+[2020.10.28-12.15.36:379][587]SphericalFPS: Warning: idx 1 diffSum : 0.290497
+[2020.10.28-12.15.36:379][587]SphericalFPS: Warning: idx 2 diffSum : 0.332348
+[2020.10.28-12.15.36:379][587]SphericalFPS: Warning: idx : 1
+[2020.10.28-12.15.36:698][625]SphericalFPS: Warning: DepthVal = 30
+[2020.10.28-12.15.36:698][625]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.37:232][685]SphericalFPS: Warning: idx 0 diffSum : 0.345416
+[2020.10.28-12.15.37:232][685]SphericalFPS: Warning: idx 1 diffSum : 0.348060
+[2020.10.28-12.15.37:232][685]SphericalFPS: Warning: idx 2 diffSum : 0.302749
+[2020.10.28-12.15.37:232][685]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.38:677][858]SphericalFPS: Warning: DepthVal = 36
+[2020.10.28-12.15.38:677][858]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.39:252][923]SphericalFPS: Warning: idx 0 diffSum : 0.331621
+[2020.10.28-12.15.39:252][923]SphericalFPS: Warning: idx 1 diffSum : 0.335636
+[2020.10.28-12.15.39:252][923]SphericalFPS: Warning: idx 2 diffSum : 0.318151
+[2020.10.28-12.15.39:252][923]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.39:819][991]SphericalFPS: Warning: DepthVal = 31
+[2020.10.28-12.15.39:819][991]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.40:360][ 52]SphericalFPS: Warning: idx 0 diffSum : 0.339882
+[2020.10.28-12.15.40:361][ 52]SphericalFPS: Warning: idx 1 diffSum : 0.344104
+[2020.10.28-12.15.40:361][ 52]SphericalFPS: Warning: idx 2 diffSum : 0.313372
+[2020.10.28-12.15.40:361][ 52]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.41:803][225]SphericalFPS: Warning: DepthVal = 22
+[2020.10.28-12.15.41:803][225]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.42:286][279]SphericalFPS: Warning: idx 0 diffSum : 0.363143
+[2020.10.28-12.15.42:286][279]SphericalFPS: Warning: idx 1 diffSum : 0.365766
+[2020.10.28-12.15.42:286][279]SphericalFPS: Warning: idx 2 diffSum : 0.301843
+[2020.10.28-12.15.42:286][279]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.44:663][564]SphericalFPS: Warning: DepthVal = 22
+[2020.10.28-12.15.44:663][564]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.45:147][618]SphericalFPS: Warning: idx 0 diffSum : 0.366175
+[2020.10.28-12.15.45:147][618]SphericalFPS: Warning: idx 1 diffSum : 0.369917
+[2020.10.28-12.15.45:147][618]SphericalFPS: Warning: idx 2 diffSum : 0.306976
+[2020.10.28-12.15.45:147][618]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.45:265][632]SphericalFPS: Warning: DepthVal = 22
+[2020.10.28-12.15.45:265][632]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.45:749][686]SphericalFPS: Warning: idx 0 diffSum : 0.360346
+[2020.10.28-12.15.45:749][686]SphericalFPS: Warning: idx 1 diffSum : 0.358913
+[2020.10.28-12.15.45:749][686]SphericalFPS: Warning: idx 2 diffSum : 0.294312
+[2020.10.28-12.15.45:749][686]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.45:761][687]SphericalFPS: Warning: DepthVal = 24
+[2020.10.28-12.15.45:761][687]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.46:252][742]SphericalFPS: Warning: idx 0 diffSum : 0.337175
+[2020.10.28-12.15.46:252][742]SphericalFPS: Warning: idx 1 diffSum : 0.294314
+[2020.10.28-12.15.46:252][742]SphericalFPS: Warning: idx 2 diffSum : 0.329203
+[2020.10.28-12.15.46:252][742]SphericalFPS: Warning: idx : 1
+[2020.10.28-12.15.46:336][752]SphericalFPS: Warning: DepthVal = 38
+[2020.10.28-12.15.46:336][752]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.46:878][817]SphericalFPS: Warning: DepthVal = 26
+[2020.10.28-12.15.46:879][817]SphericalFPS: Warning: pitch = 0.100000
+[2020.10.28-12.15.46:931][819]SphericalFPS: Warning: idx 0 diffSum : 0.309027
+[2020.10.28-12.15.46:932][819]SphericalFPS: Warning: idx 1 diffSum : 0.298559
+[2020.10.28-12.15.46:932][819]SphericalFPS: Warning: idx 2 diffSum : 0.326908
+[2020.10.28-12.15.46:932][819]SphericalFPS: Warning: idx : 1
+[2020.10.28-12.15.47:394][870]SphericalFPS: Warning: idx 0 diffSum : 0.369804
+[2020.10.28-12.15.47:394][870]SphericalFPS: Warning: idx 1 diffSum : 0.377120
+[2020.10.28-12.15.47:394][870]SphericalFPS: Warning: idx 2 diffSum : 0.317662
+[2020.10.28-12.15.47:394][870]SphericalFPS: Warning: idx : 2
+[2020.10.28-12.15.47:404][871]SphericalFPS: Warning: DepthVal = 11
+[2020.10.28-12.15.47:404][871]SphericalFPS: Warning: pitch = 0.100000
