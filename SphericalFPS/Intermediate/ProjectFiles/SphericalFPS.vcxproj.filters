@@ -1,118 +1,115 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <ItemGroup>
-    <None Include="..\..\SphericalFPS.uproject" />
-    <Filter Include="Source">
-      <UniqueIdentifier>{6865B32E-E819-487D-9328-C22905EF0E8E}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Source\SphericalFPS.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <None Include="..\..\Source\SphericalFPSEditor.Target.cs">
-      <Filter>Source</Filter>
-    </None>
-    <Filter Include="Config">
-      <UniqueIdentifier>{A5CB3728-7EB5-4481-AAD9-6F3444AB4639}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Config\DefaultEditor.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultEngine.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultGame.ini">
-      <Filter>Config</Filter>
-    </None>
-    <None Include="..\..\Config\DefaultInput.ini">
-      <Filter>Config</Filter>
-    </None>
-    <Filter Include="Plugins">
-      <UniqueIdentifier>{F73C3365-0177-4821-85A9-B1C0A48000AD}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\OpenCV410">
-      <UniqueIdentifier>{B467F08A-18B4-46F8-BFD9-38B3951C64B6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\OpenCV410\Source">
-      <UniqueIdentifier>{65175ADD-1903-49B3-B352-C60F1E715B80}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Plugins\OpenCV410\Source\OpenCV410">
-      <UniqueIdentifier>{4F00AF8D-BE5E-4723-A09B-35A86CC60CAD}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\OpenCV410\Source\OpenCV410\OpenCV410.Build.cs">
-      <Filter>Plugins\OpenCV410\Source\OpenCV410</Filter>
-    </None>
-    <Filter Include="Plugins\OpenCV410\Source\OpenCV410\Private">
-      <UniqueIdentifier>{1E17E6B8-84EE-4FEC-A205-C751878D3702}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Plugins\OpenCV410\Source\OpenCV410\Private\OpenCV410.cpp">
-      <Filter>Plugins\OpenCV410\Source\OpenCV410\Private</Filter>
-    </ClCompile>
-    <Filter Include="Plugins\OpenCV410\Source\OpenCV410\Public">
-      <UniqueIdentifier>{316336AE-813F-4203-B79A-1B5BB9BDA373}</UniqueIdentifier>
-    </Filter>
-    <ClInclude Include="..\..\Plugins\OpenCV410\Source\OpenCV410\Public\OpenCV410.h">
-      <Filter>Plugins\OpenCV410\Source\OpenCV410\Public</Filter>
-    </ClInclude>
-    <None Include="..\..\Plugins\OpenCV410\OpenCV410.uplugin">
-      <Filter>Plugins\OpenCV410</Filter>
-    </None>
-    <Filter Include="Plugins\OpenCV410\Resources">
-      <UniqueIdentifier>{7DB40687-3033-458E-992A-38D1D4171E13}</UniqueIdentifier>
-    </Filter>
-    <None Include="..\..\Plugins\OpenCV410\Resources\Icon128.png">
-      <Filter>Plugins\OpenCV410\Resources</Filter>
-    </None>
-    <Filter Include="Source\SphericalFPS">
-      <UniqueIdentifier>{A2933CA1-2206-4024-9B68-4BF0333B75F1}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\SphericalFPS\FPSCharacter.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SphericalFPS\FPSCharacter.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\SphericalFPS\MyPawn.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SphericalFPS\MyPawn.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\SphericalFPS\panoramaReader.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SphericalFPS\panoramaReader.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-    <None Include="..\..\Source\SphericalFPS\SphericalFPS.Build.cs">
-      <Filter>Source\SphericalFPS</Filter>
-    </None>
-    <ClCompile Include="..\..\Source\SphericalFPS\SphericalFPS.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SphericalFPS\SphericalFPS.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\SphericalFPS\SphericalFPSGameModeBase.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SphericalFPS\SphericalFPSGameModeBase.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\SphericalFPS\FPSProjectile.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\SphericalFPS\FPSHUD.h">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\SphericalFPS\FPSProjectile.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\SphericalFPS\FPSHUD.cpp">
-      <Filter>Source\SphericalFPS</Filter>
-    </ClCompile>
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="..\..\SphericalFPS.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{0C906027-6137-4214-A01C-FE32AEF9A6BE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SphericalFPS.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SphericalFPSEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{53572B4F-6781-48D6-9652-910FAC58C6C6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Plugins">
+			<UniqueIdentifier>{F70084FD-0879-44C9-9550-002423E9534A}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\OpenCV410">
+			<UniqueIdentifier>{186B7308-3EED-49D6-8817-C740C6A069B6}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\OpenCV410\Source">
+			<UniqueIdentifier>{9B12D142-76D6-40FA-9A81-134B10A731B4}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Plugins\OpenCV410\Source\OpenCV410">
+			<UniqueIdentifier>{B832FE80-FE8B-4D67-ABFC-3B593E42D714}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\OpenCV410\Source\OpenCV410\OpenCV410.Build.cs">
+			<Filter>Plugins\OpenCV410\Source\OpenCV410</Filter>
+		</None >
+		<Filter Include="Plugins\OpenCV410\Source\OpenCV410\Private">
+			<UniqueIdentifier>{A819B103-BDF3-45EB-8ECA-A2BBAF8E9ADF}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Plugins\OpenCV410\Source\OpenCV410\Private\OpenCV410.cpp">
+			<Filter>Plugins\OpenCV410\Source\OpenCV410\Private</Filter>
+		</ClCompile >
+		<Filter Include="Plugins\OpenCV410\Source\OpenCV410\Public">
+			<UniqueIdentifier>{AFD05E55-B52D-4AEC-955E-44C9A8C0673F}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Plugins\OpenCV410\Source\OpenCV410\Public\OpenCV410.h">
+			<Filter>Plugins\OpenCV410\Source\OpenCV410\Public</Filter>
+		</ClInclude >
+		<None Include="..\..\Plugins\OpenCV410\OpenCV410.uplugin">
+			<Filter>Plugins\OpenCV410</Filter>
+		</None >
+		<Filter Include="Plugins\OpenCV410\Resources">
+			<UniqueIdentifier>{38C02C10-CDD4-4CF1-B222-34B60A4B824A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Plugins\OpenCV410\Resources\Icon128.png">
+			<Filter>Plugins\OpenCV410\Resources</Filter>
+		</None >
+		<Filter Include="Source\SphericalFPS">
+			<UniqueIdentifier>{6EFE4D6B-D289-45AD-B51F-C3168317AB61}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\SphericalFPS\FPSCharacter.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\FPSCharacter.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SphericalFPS\FPSHUD.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\FPSHUD.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SphericalFPS\FPSProjectile.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\FPSProjectile.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SphericalFPS\MyPawn.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\MyPawn.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SphericalFPS\panoramaReader.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\panoramaReader.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\SphericalFPS\SphericalFPS.Build.cs">
+			<Filter>Source\SphericalFPS</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SphericalFPS\SphericalFPS.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\SphericalFPS.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SphericalFPS\SphericalFPSGameModeBase.cpp">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SphericalFPS\SphericalFPSGameModeBase.h">
+			<Filter>Source\SphericalFPS</Filter>
+		</ClInclude >
+	</ItemGroup>
 </Project>

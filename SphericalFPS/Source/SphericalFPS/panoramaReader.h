@@ -46,7 +46,7 @@ public:	//Editor Adjustable Field
 		bool isShowPaintball = false;
 
 	UPROPERTY(EditAnywhere, Category = Cubemap)
-		FString filePath = "D:/Unreal_Project/4.19.2/SphericalFPS/Content/Images/";
+		FString filePath = "E:/Unreal_Project/4.19.2/spherical-fps/SphericalFPS/Content/Images/";
 	UPROPERTY(EditAnywhere, Category = Cubemap)
 		FString imagePath_RGB = "pano_1_rgb.jpg";
 	UPROPERTY(EditAnywhere, Category = Cubemap)

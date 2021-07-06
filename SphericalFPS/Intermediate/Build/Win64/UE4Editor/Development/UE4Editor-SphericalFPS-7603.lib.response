@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SphericalFPS-7603.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSCharacter.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSHUD.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSProjectile.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\MyPawn.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\panoramaReader.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\SphericalFPS.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\SphericalFPSGameModeBase.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSCharacter.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSHUD.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\FPSProjectile.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\MyPawn.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\panoramaReader.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\SphericalFPS.init.gen.cpp.obj"
+"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\SphericalFPSGameModeBase.gen.cpp.obj"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\SphericalFPS\PCLaunch.rc.res"
+"E:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\Unreal_Project\4.19.2\spherical-fps\SphericalFPS\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SphericalFPS-7603.lib"
