@@ -31,4 +31,10 @@ This is game system including sound generation technique using cs-lbp.
 
 # If you want to compile this project
 - It is developed using UE 4.19.2 Environment
+
 - Compile with visual studio 2017 in "Development Editor" + "Win64" mode.
+- Before C++ build, delete solution file(LetsGo.sln), then execute "Generate Visual Studio Project File" in .uproject.
+
+
+
+
